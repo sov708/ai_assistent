@@ -2,7 +2,7 @@
 
 Ссылка на проект https://t.me/OKNNAROD_bot
 
-Скриншот диалога ИИ-ассистента 
+Скриншот диалога ИИ-ассистента https://github.com/sov708/ai_assistent/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%201%20%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2%20%D1%81%20%D0%B1%D0%BE%D1%82%D0%BE%D0%BC.jpg?raw=true
 
 ## Описание проекта
 
